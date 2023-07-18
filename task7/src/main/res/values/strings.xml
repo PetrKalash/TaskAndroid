@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">task7</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="colors">Цвет</string>
+    <string name="size">Размер</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+</resources>

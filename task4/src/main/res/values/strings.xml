@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task6</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="actibtnok">ActibtnOk</string>
+    <string name="actibtncancel">ActibtnCancel</string>
+</resources>
